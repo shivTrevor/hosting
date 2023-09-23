@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Dont learn react becuase it is very good here bro and then find for 
         </a>
       </header>
     </div>
